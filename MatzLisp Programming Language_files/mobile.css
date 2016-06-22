@@ -1,7 +1,7 @@
 @media screen and (min-width: 768px) {
   #home-page-layout #intro a.download-link {
     display: inline-block;
-    background: #CC342D url(logo.png) no-repeat 8px center;
+    background: #CC342D url(logo_small.png) no-repeat 8px center;
     background-size: 30px 25px;
     color: white;
     padding: 8px 20px 8px 45px;
